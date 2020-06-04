@@ -13,11 +13,12 @@ The purpose of this project is to generate, manipulate, and capture a simulated 
     <img src=images/Aquiring%20a%20Signal%20FP.png>  
     <img src=images/Aquiring%20a%20Signal%20BD.png>
 </p>
+
 ### Prerequisites
 
-[LabView](https://www.ni.com/en-us/shop/labview/select-edition/labview-community-edition.html)  
+- [LabView](https://www.ni.com/en-us/shop/labview/select-edition/labview-community-edition.html)  
 
-## Authors
+### Authors
 
 * **Ryan Thompson** - *Initial work* - [Profile](https://github.com/rthomp10)
 
