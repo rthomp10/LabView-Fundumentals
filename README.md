@@ -7,7 +7,7 @@ A few small projects to get up and running with LabView.
 2. Press ctrl+R to run the script
 
 ## Aquiring a Signal
-The purpose of this project is to generate, manipulate, and capture a simulated signal. It's really for getting accustome with the front panel and block diagram windows along with virtual instruments.
+The purpose of this project is to generate, amplify, and capture a simulated signal. It's for getting accustome with the front panel and block diagram windows along with virtual instruments.
 
 <p align="center">
     <img src=images/Aquiring%20a%20Signal%20FP.png>  
