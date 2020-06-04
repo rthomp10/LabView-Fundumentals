@@ -9,9 +9,10 @@ A few small projects to get up and running with LabView.
 ## Aquiring a Signal
 The purpose of this project is to generate, manipulate, and capture a simulated signal. It's really for getting accustome with the front panel and block diagram windows along with virtual instruments.
 
-![Front Pannel](images/Aquiring%20a%20Signal%20FP.png)  
-![Block Diagram](images/Aquiring%20a%20Signal%20BD.png)
-
+<p align="center">
+    <img src=images/Aquiring%20a%20Signal%20FP.png>  
+    <img src=images/Aquiring%20a%20Signal%20BD.png>
+</p>
 ### Prerequisites
 
 [LabView](https://www.ni.com/en-us/shop/labview/select-edition/labview-community-edition.html)  
